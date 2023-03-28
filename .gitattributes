@@ -4,3 +4,4 @@ six.py  export-ignore
 seventh.py  export-ignore
 *.foo merge=union
 mytext.py merge=ours
+Program.cs merge=ours
